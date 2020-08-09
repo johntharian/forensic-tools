@@ -9,5 +9,6 @@ Install the necessary requiremnets: refer requirements.txt
 
 run image_metadata.py
 
-This tool has been made by John Tharian
+This tool has been made by **@johntharian**
+
 Star this repo and fork it and use it as you please
